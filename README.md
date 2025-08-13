@@ -49,5 +49,3 @@ The goal is to classify text (such as reviews, comments, or tweets) into sentime
 
 
 
-```bash
-pip install numpy pandas matplotlib seaborn tensorflow scikit-learn
