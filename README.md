@@ -1,6 +1,6 @@
 # Sentiment Analysis using LSTM & Bi-LSTM
 
-This repository contains two deep learning projects that perform sentiment analysis on text data using **Long Short-Term Memory (LSTM)** and **Bidirectional LSTM (Bi-LSTM)** models.\  
+This repository contains two deep learning projects that perform sentiment analysis on text data using **Long Short-Term Memory (LSTM)** and **Bidirectional LSTM (Bi-LSTM)** models.
 The goal is to classify text (such as reviews, comments, or tweets) into sentiment categories like **positive** or **negative**.
 
 ---
